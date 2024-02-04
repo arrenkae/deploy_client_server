@@ -1,1 +1,1 @@
-# deploy_client_server
+# client server deployment
